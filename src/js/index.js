@@ -26,8 +26,8 @@ setInterval(function() {
 			digitTwo={two}
 			digitThree={three}
 			digitFour={four}
-			digitFive={four}
-			digitSix={four}
+			digitFive={five}
+			digitSix={six}
 		/>,
 		document.querySelector("#app")
 	);
